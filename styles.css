@@ -123,6 +123,8 @@ nav.sc{padding:1rem 4rem}
 .pc-tag{font-family:var(--fm);font-size:.57rem;letter-spacing:.14em;text-transform:uppercase;border:1px solid var(--gray-800);padding:.27rem .6rem;color:var(--gray-600);transition:border-color .3s,color .3s}
 .pc:hover .pc-tag{border-color:var(--gray-600);color:var(--gray-400)}
 
+.ct-note{font-family:var(--fm);font-size:.68rem;letter-spacing:.15em;text-transform:uppercase;color:var(--gray-400);margin-top:1.5rem}
+
 /* CERTS */
 #certs{padding:8rem 4rem;border-bottom:1px solid var(--gray-800)}
 .certs-h{font-family:var(--fd);font-size:clamp(3rem,6vw,7rem);line-height:.92;margin-top:2rem;margin-bottom:5rem}
